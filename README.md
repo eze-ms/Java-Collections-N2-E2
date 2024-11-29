@@ -33,4 +33,4 @@ A Java program that sorts a collection of restaurants by **name** and **score** 
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/eze-ms/Restaurant-Management-Sorting
+   git clone https://github.com/eze-ms/Java-Collections-N2-E2
