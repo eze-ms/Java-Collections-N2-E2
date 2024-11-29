@@ -1,9 +1,3 @@
-
----
-
-### **README for Exercise 2: Sorting Restaurants**
-
-```markdown
 # Restaurant Management - Sorting by Name and Score
 
 ## 📄 Description
@@ -11,7 +5,8 @@ A Java program that sorts a collection of restaurants by **name** and **score** 
 
 ### Features
 1. **Custom sorting:**
-   - Restaurants are sorted automatically:
+   - Implements the `compareTo` method in the `Restaurant` class.
+   - Ensures restaurants are sorted:
      - **First by name** in descending order.
      - **Then by score** in descending order if names are identical.
 2. **Display the collection:**
@@ -33,4 +28,4 @@ A Java program that sorts a collection of restaurants by **name** and **score** 
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/eze-ms/Java-Collections-N2-E2
+   git clone https://github.com/eze-ms/Restaurant-Management-Sorting
